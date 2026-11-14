@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# Node
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# System & IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Other hackathon presentations
+*nasa*.pptx
